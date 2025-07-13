@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary>a_07 dream block optimization</summary>
+<summary>a_08 dream block optimization</summary>
 
 ![gif](./images/a_08dreamblock.webp)
 </details>

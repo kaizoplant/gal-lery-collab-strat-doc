@@ -8,16 +8,10 @@ Regrab the wall while holding against it, jump away then hold neutral, then move
 </details>
 
 <details>
-<summary>03 first half skip(risky) </summary>
+<summary>03 first half skip </summary>
 
-After getting up to the middle platform, jump away and hold neutral, then jump neutral then hold right \
-![gif](./images/r2skiprisky.webp)
-</details>
-
-<details>
-<summary>03 first half small optimization</summary>
-
-TODO
+The jump crystal jump should not be buffered \
+![gif](./images/r2skipfast.webp)
 </details>
 
 <details>

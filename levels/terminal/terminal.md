@@ -55,10 +55,6 @@ Try to throw theo as high as possible to hit the wall when at the top. \
 ![gif](./images/terminalfinalroomupdash.webp)
 </details>
 
-<details>
-<summary>Rightdash Variation/Save</summary>
-</details>
-
 ### Heart room
 
 <details> 

@@ -2,14 +2,13 @@
 - Blueberry Jelly Valley
 - Reality 209
 - Gravity Flow
-- FR-C2
 - Game Development Department
-- Sailing Star Phantom
 - The Artside
 ## In progress
+- Sailing Star Phantom
 - Afterglow Summit
-- Terminal: nilrem (and others possibly)
 - B612: boxy
-- Bloom Wanderer: irisu
+## Outdated for now
+- Hazy space
 ## No strats?
 - Red Horizon
