@@ -5,7 +5,6 @@
 - Gravity Flow
 - Red Horizon
 - FR-C2
-- Cyber Roam
 - Game Development Department
 - Sailing Star Phantom
 - Dream in Rhythm
