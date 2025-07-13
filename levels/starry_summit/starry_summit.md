@@ -5,7 +5,7 @@
 Demo into the bubble overlapping the touch switch gate to make it a bit more vertically lenient. \
 If you find the bubble super hard, you can do a quick reverse super instead. \
 The camera will be off, so practice the room like that a bit. \
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_02start.webp)
+![gif](./images/SS_a_02start.webp)
 
 </details>
 
@@ -13,13 +13,13 @@ The camera will be off, so practice the room like that a bit. \
 <summary>SS_a_3 far wounce</summary>
 
 Neutral wounce then hold right and then release once far enough right. \
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_03wounce.webp)
+![gif](./images/SS_a_03wounce.webp)
 </details>
 
 <details>
 <summary>SS_a_4 early coin</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_04earlycoin.webp)
+![gif](./images/SS_a_04earlycoin.webp)
 
 </details>
 
@@ -27,44 +27,44 @@ Neutral wounce then hold right and then release once far enough right. \
 <summary>SS_a_5 top side skip</summary> 
  
 TODO this needs like 50 billion visual cues. \
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_05.webp)
+![gif](./images/SS_a_05.webp)
 </details>
 
 <details>
 <summary>SS_a_6 rev wavedash+bumper skip</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_06bumperbypass.webp)
+![gif](./images/SS_a_06bumperbypass.webp)
 </details>
 
 <details>
 <summary>SS_a_6 faster ending</summary>
 
 Demo into the bubble to go in slightly higher, jump into the wall (to not wallboost) and then press away and then back in to make falling block fall down faster to make the spring cancel easier.\
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_06ending.webp)
+![gif](./images/SS_a_06ending.webp)
 </details>
 
 <details>
 <summary>SS_a_7 coinskip</summary>
 Climbjump then wallboost off the wall to make it fall earlier.
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_07coinskip.webp)
+![gif](./images/SS_a_07coinskip.webp)
 </details>
 
 <details>
 <summary>SS_a_8 entry bhop</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_08entry.webp)
+![gif](./images/SS_a_08entry.webp)
 </details>
 
 <details>
 <summary>SS_a_8 ending spring cancel strat</summary>
 
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_08sprancel.webp)
+![gif](./images/SS_a_08sprancel.webp)
 </details>
 
 <details>
 <summary>SS_a_9 coin skip</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/starry_summit/images/SS_a_09coinskip.webp)
+![gif](./images/SS_a_09coinskip.webp)
 </details>

@@ -7,34 +7,34 @@
 <summary>Subpixel manip for start</summary>
 Do two crouch jumps and then a fulljump into full climbjump then climb down, then press left for a frame. 
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/6tilesubpixelmanip.webp)
+![gif](ruins_of_temple/images/6tilesubpixelmanip.webp)
 </details>
 
 <details>
 <summary>Cue for first climbjump</summary> 
 
 With hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1hitboxes.png"></img> \
+<img src="ruins_of_temple/images/climbjump1hitboxes.png"></img> \
 Without hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump1wohitboxes.png"></img> 
+<img src="ruins_of_temple/images/climbjump1wohitboxes.png"></img> 
 </details>
 
 <details>
 <summary>Cue for second climbjump</summary>
 
 With hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2hitboxes.png"></img> \
+<img src="ruins_of_temple/images/climbjump2hitboxes.png"></img> \
 Without hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/climbjump2wohitboxes.png"></img> 
+<img src="ruins_of_temple/images/climbjump2wohitboxes.png"></img> 
 </details>
 
 <details>
 <summary>Cue for turnaround+inputs after</summary>
 
 With hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/turnaroundhitboxes.png"></img> \
+<img src="ruins_of_temple/images/turnaroundhitboxes.png"></img> \
 Without hitboxes \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/turnaroundwohitboxes.png"></img> \
+<img src="ruins_of_temple/images/turnaroundwohitboxes.png"></img> \
 The inputs go, with frame 1 being the turnaround frame: \
 Frame 1: turnaround (left+hold jump) \
 Frame 2: turn back around (right+hold jump) \
@@ -53,7 +53,7 @@ Retry as fast as possible, we do not need the key at all
 <summary> Spring bounce skip </summary>
 
 Short jump off this little platform to land on the left side of the spring, allowing you to only bounce on the spring once. \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/bits_a-04_spring_bounce_skip.png"></img>
+<img src="ruins_of_temple/images/bits_a-04_spring_bounce_skip.png"></img>
 
 </details>
 <details>
@@ -63,10 +63,10 @@ Short jump off this little platform to land on the left side of the spring, allo
 <summary>Setup</summary>
 
 The lantern can be put pretty much anywhere on this platform or in the hole to the right \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_lantern_placement.png"></img> 
+<img src="ruins_of_temple/images/3x1_into_2x1_lantern_placement.png"></img> 
 
 Crouch jump into this corner to set your subpixels \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_crouch_jump_setup.png"></img> 
+<img src="ruins_of_temple/images/3x1_into_2x1_crouch_jump_setup.png"></img> 
 
 from there, full height crouch jump to the right.
 </details>
@@ -76,13 +76,13 @@ from there, full height crouch jump to the right.
 
 Full height crouch jump to the right and buffer climpjump on the very first frame you're against the wall.\
 This frame: \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_1st_climbjump.png"></img>
+<img src="ruins_of_temple/images/3x1_into_2x1_1st_climbjump.png"></img>
 
 Hold jump until this frame, then climbjump again: \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_2nd_climbjump.png"></img>
+<img src="ruins_of_temple/images/3x1_into_2x1_2nd_climbjump.png"></img>
 
 Hold jump until this frame: \
-<img src="https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/3x1_into_2x1_3rd_climbjump.png"></img> \
+<img src="ruins_of_temple/images/3x1_into_2x1_3rd_climbjump.png"></img> \
 Then, pausebuffer this sequence: 
 | Frame | Inputs |
 | ----- | ------ |
@@ -116,14 +116,14 @@ When madeline uncrouches, jump for one frame and then hold left.  buffer a corne
 <details>
 <summary>Early drop during entry</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/topleftentrystrat.webp)
+![gif](./images/topleftentrystrat.webp)
 
 </details>
 
 <details>
 <summary> Lantern climb strat</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/topleftlanternclimb.webp)
+![gif](./images/topleftlanternclimb.webp)
 
 
 </details>
@@ -133,7 +133,7 @@ When madeline uncrouches, jump for one frame and then hold left.  buffer a corne
 <details>
 <summary>Path for fully fastfalling</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/bottomrightfastfall.webp)
+![gif](./images/bottomrightfastfall.webp)
 
 </details>
 
@@ -142,7 +142,7 @@ When madeline uncrouches, jump for one frame and then hold left.  buffer a corne
 <details>
 <summary>Lantern slowfall strat</summary>
 
-![gif](https://github.com/kaizobuzz/gal-lery-collab-strat-doc/blob/main/levels/ruins_of_temple/images/toprightlanternslowfall.webp)
+![gif](./images/toprightlanternslowfall.webp)
 
 
 </details>
